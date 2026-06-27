@@ -1,0 +1,38 @@
+# Business Sales Performance Analytics
+
+## Future Interns – Data Science & Analytics Task 1
+
+### Project Overview
+This project analyzes the Sample Superstore dataset to evaluate business sales performance using Python.
+
+### Dataset
+- Sample - Superstore.csv
+
+### Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Excel
+
+### Analysis Performed
+- Data Cleaning
+- Exploratory Data Analysis
+- Sales Trend Analysis
+- Profit Analysis
+- Category Analysis
+- Regional Analysis
+- Customer Segment Analysis
+- Top Products
+- Discount vs Profit
+
+### KPIs
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Customers
+- Average Order Value
+- Profit Margin
+
+### Author
+Pooja Bhavani
